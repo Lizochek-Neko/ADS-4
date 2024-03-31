@@ -48,7 +48,7 @@ int cbinsearch(int* arr, int size, int value) {
             j = mid;
         } else {
             i = mid + 1;
-        }    
+        }
     }
     return 0;
 }
